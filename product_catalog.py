@@ -20,6 +20,7 @@ print(customer_preferences)
 # TODO: Step 3 - Convert customer_preferences list to set to eliminate duplicates.
 customer_preferences = set(customer_preferences)
 print( customer_preferences)
+#this is a comment.
 
 
 # TODO: Step 4 - Convert the product tags to sets in order to allow for faster comparisons.
